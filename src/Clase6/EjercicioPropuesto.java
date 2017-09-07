@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  *
  * @author memux
- */
+ */ /*incertar comentario lol*/
 public class EjercicioPropuesto {
 
     public static void main(String[] args) {
